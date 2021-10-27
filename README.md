@@ -1,4 +1,4 @@
-### Hello there 👋, I am Akshat Virmani! 
+### Hello there 👋, Akshat here :sunglasses:
  <img alt="" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" height="200"/>  
 
 - 🔭 I’m currently working on my Web Development and Programming Skills.
