@@ -15,6 +15,6 @@
 [![Discord](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VirmaniAkshat)
 
 
-- :bulb: Fun Fact: 
+- 💡 Fun Fact: 
 <img alt="" src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" height="350"/>
 
