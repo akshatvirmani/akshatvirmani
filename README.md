@@ -1,4 +1,4 @@
-### Hello there 👋 Akshat here :sunglasses:
+## Hello there 👋 Akshat here :sunglasses:
 
  <img alt="" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" height="200"/>  
 
