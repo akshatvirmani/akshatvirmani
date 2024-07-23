@@ -10,6 +10,8 @@
   <img src="https://api.vaunt.dev/v1/github/entities/akshatvirmani/achievements?format=svg&limit=3" width="350" />
 </p>
 
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/akshatvirmani/badges/community)](https://community.vaunt.dev/board/akshatvirmani)
+
  <img alt="" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" height="200"/>  
 
 - 🔭 I’m currently working on my Web Development and Programming Skills.
