@@ -18,7 +18,7 @@
 - 📫 How to reach me:
 
 [![Discord](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-virmani-1988481b6/)
-[![Discord](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VirmaniAkshat) [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/akshatvirmani/badges/community)](https://community.vaunt.dev/board/akshatvirmani)
+[![Discord](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VirmaniAkshat)
 
 [![Discord](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshatvirmani72)
 
@@ -29,3 +29,5 @@
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/akshatvirmani/achievements?format=svg&limit=3" width="350" />
 </p>
+
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/akshatvirmani/badges/community)](https://community.vaunt.dev/board/akshatvirmani)
