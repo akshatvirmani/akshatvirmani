@@ -1,11 +1,5 @@
 ## Hello there 👋 Akshat here :sunglasses:
 
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/akshatvirmani/contributions?format=svg" width="350" title="Includes public contributions"/>
-    </a>
-</p>
-
  <img alt="" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" height="200"/>  
 
 - 🔭 I’m currently working on my Web Development and Programming Skills.
@@ -24,10 +18,3 @@
 
 - 💡 Fun Fact: 
 <img alt="" src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" height="350"/>
-
-
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/akshatvirmani/achievements?format=svg&limit=3" width="350" />
-</p>
-
-[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/akshatvirmani/badges/community)](https://community.vaunt.dev/board/akshatvirmani)
