@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Akshat Virmani  
 
-🚀 DevRel | Solution Engineer | AI-Driven Developer Tooling  
+🚀 DevRel | Solution Engineer
 📍 Dehradun, India  
-📧 akshatvirmani72@gmail.com  
 
-🔗 [Portfolio](https://akshatvirmani.github.io/Portfolio/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/akshatvirmani/)  
 🔗 [Twitter/X](https://twitter.com/VirmaniAkshat)  
 
@@ -31,30 +29,20 @@ CGPA: 7.5/10
 
 ## 🛠 Skills
 
-### 👨‍💻 Programming
+### Programming
 C++, Python, Java, SQL, JavaScript, TypeScript  
 
-### 🌐 Frameworks & Libraries
+### Frameworks & Libraries
 React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, Material UI, Chakra UI  
 
-### 🗄 Databases
+### Databases
 MongoDB, MySQL, Firebase  
 
-### 🔧 Tools
+### Tools
 Git, Postman, VS Code, WordPress, Figma  
 
-### 🤖 AI & GenAI Exposure
-AI-assisted content creation  
-Prompt engineering fundamentals  
-LLM-based documentation workflows  
-AI-driven testing & automation awareness  
-
-### 📣 DevRel & Writing
-API Documentation  
-Technical Writing  
-Public Speaking  
-Developer Marketing  
-Community Growth  
+### DevRel & Writing
+API Documentation, Technical Writing, Public Speaking, Developer Marketing, Community Growth  
 
 ---
 
@@ -70,19 +58,19 @@ Community Growth
 
 ---
 
-## 🎯 What I Focus On
+## What I Focus On
 
 - AI-driven Testing & Automation  
 - Developer Experience (DX)  
 - Technical Content & Distribution  
 - Community-Led Growth  
-- AI-assisted Documentation & Workflows  
+- Documentation & Workflows  
 
 ---
 
-## 📈 Current Interests
+## Current Interests
 
 - AI in Testing & Automation  
 - Developer Tooling & Platform Engineering  
-- AI-assisted Technical Writing  
+- Technical Writing  
 - Building Developer-First Products  
