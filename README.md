@@ -49,6 +49,8 @@ B.Tech in Computer Science and Engineering
 
 More [talks](https://gdg.community.dev/gdg-dehradun/) highlighted here. 
 
+---
+
 ### Current Interests
 
 - AI-driven Testing & Automation
