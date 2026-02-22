@@ -11,9 +11,8 @@
 
 ### Education
 
-**DIT University (Class of 2024)**  
+**DIT University (2020 - 2024)**  
 B.Tech in Computer Science and Engineering  
-CGPA: 7.5/10  
 
 ---
 
