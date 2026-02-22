@@ -1,12 +1,3 @@
-🚀 **DevRel | Solution Engineer**
-
-📍 Dehradun, India  
-
-🔗 **[LinkedIn](https://www.linkedin.com/in/akshatvirmani/)**
-🔗 **[Twitter/X](https://twitter.com/VirmaniAkshat)** 
-
----
-
 ### Experience
 
 | Role | Organization | Duration | Key Contributions |
