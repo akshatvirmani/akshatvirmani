@@ -1,14 +1,13 @@
-# 👋 Hi, I'm Akshat Virmani  
+🚀 **DevRel | Solution Engineer**
 
-🚀 DevRel | Solution Engineer
 📍 Dehradun, India  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/akshatvirmani/)  
-🔗 [Twitter/X](https://twitter.com/VirmaniAkshat)  
+🔗 **[LinkedIn](https://www.linkedin.com/in/akshatvirmani/)**
+🔗 **[Twitter/X](https://twitter.com/VirmaniAkshat)** 
 
 ---
 
-## 💼 Experience
+### Experience
 
 | Role | Organization | Duration | Key Contributions |
 |------|--------------|----------|------------------|
@@ -19,7 +18,7 @@
 
 ---
 
-## 🎓 Education
+### Education
 
 **DIT University (Class of 2024)**  
 B.Tech in Computer Science and Engineering  
@@ -27,26 +26,17 @@ CGPA: 7.5/10
 
 ---
 
-## 🛠 Skills
+### Skills
 
-### Programming
-C++, Python, Java, SQL, JavaScript, TypeScript  
-
-### Frameworks & Libraries
-React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, Material UI, Chakra UI  
-
-### Databases
-MongoDB, MySQL, Firebase  
-
-### Tools
-Git, Postman, VS Code, WordPress, Figma  
-
-### DevRel & Writing
-API Documentation, Technical Writing, Public Speaking, Developer Marketing, Community Growth  
+- C++, Python, Java, SQL, JavaScript, TypeScript  
+- React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, Material UI, Chakra UI  
+- MongoDB, MySQL, Firebase  
+- Git, Postman, VS Code, WordPress, Figma  
+- API Documentation, Technical Writing, Public Speaking, Developer Marketing, Community Growth  
 
 ---
 
-## 🌱 Community Leadership
+### Community Leadership
 
 ### Google Developer Group (GDG) — Lead Organizer  
 *June 2022 – Present*
@@ -58,19 +48,12 @@ API Documentation, Technical Writing, Public Speaking, Developer Marketing, Comm
 
 ---
 
-## What I Focus On
+### Current Interests
 
-- AI-driven Testing & Automation  
-- Developer Experience (DX)  
-- Technical Content & Distribution  
-- Community-Led Growth  
-- Documentation & Workflows  
-
----
-
-## Current Interests
-
-- AI in Testing & Automation  
-- Developer Tooling & Platform Engineering  
-- Technical Writing  
-- Building Developer-First Products  
+- AI-driven Testing & Automation
+- Developer Experience (DX)
+- Technical Content & Distribution
+- Community-Led Growth
+- Documentation & Workflows
+- Developer Tooling & Platform Engineering
+- Building Developer-First Products 
