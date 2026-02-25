@@ -40,7 +40,7 @@ B.Tech in Computer Science and Engineering
 
 ### Tech Talks
 
-- **[IO Exntended](https://gdg.community.dev/events/details/google-gdg-dehradun-presents-io-extended-2025/)** - Highlighted various advanced tools, including the Google Vertex AI and its integration.
+- **[IO Extended](https://gdg.community.dev/events/details/google-gdg-dehradun-presents-io-extended-2025/)** - Highlighted various advanced tools, including the Google Vertex AI and its integration.
 - **DevFest'24 Dehradun** - Gave a talk on API testing and AI automation integration.
 - **[Eyer X Boomi Meetup](https://usergroups.boomi.com/events/details/boomi-bangalore-and-hyderabad-presents-boomi-hyderabad-user-group-meetup-august-2024/)** - Gave a talk on Boomi integration with Eyer.ai
 - **GEU Hacktoberfest Workshop** - Represented Vaunt.dev and how to integrate it into your GitHub profile.
