@@ -3,7 +3,7 @@
 | Role | Organization | Duration | Key Contributions |
 |------|--------------|----------|------------------|
 | DevRel & Solution Engineer | KushoAI | Aug 2025 – Present | Created 15+ video tutorials and 30+ technical blogs around AI-driven testing and automation. Worked closely with customers to design and validate AI-powered testing workflows. Translated developer feedback into product improvements and leveraged AI-assisted documentation workflows. |
-| DevRel Manager | Hackmamba | June 2024 – Aug 2025 | Developed SEO-optimized technical articles and designed developer learning programs and cohorts. Used AI-assisted research and content workflows to scale publishing. Led content distribution for 10+ clients generating thousands of organic views. Managed and grew a 1600+ member Discord community and hosted 20+ technical sessions. |
+| Junior DevRel Manager | Hackmamba | June 2024 – Aug 2025 | Developed SEO-optimized technical articles and designed developer learning programs and cohorts. Used AI-assisted research and content workflows to scale publishing. Led content distribution for 10+ clients generating thousands of organic views. Managed and grew a 1600+ member Discord community and hosted 20+ technical sessions. |
 | Developer Advocate Intern | ToolJet | Jan 2025 – March 2025 | Improved Marketplace and App Builder documentation. Shipped 10+ third-party integrations and focused on automation-friendly developer workflows. |
 | DevRel Intern | GodSpeed | March 2024 – June 2024 | Contributed to technical documentation, blogs, and tutorials. Supported testing of newly introduced features and represented the organization at HackByte 2.0 as a track judge and mentor. |
 
